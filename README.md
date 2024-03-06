@@ -4,7 +4,7 @@
 
 # <h1 align=center> **PROYECTO INDIVIDUAL Nº2** </h1>
 
-# <h1 align=center>**`Siniestros viales en la ciudad de Buenos Aires, Argentina`**</h1>
+# <h1 align=center>**`Siniestros viales en la ciudad de Buenos Aires, Argentina en los años 2016-2021*</h1>
 <h1 align='center'>
  
 ### Introducción
@@ -21,7 +21,7 @@ Este proyecto se centra en el análisis de datos de los siniestros viales en la 
 - GitHub: Para almacenar el desarrollo del proyecto.
 
 ### Metodología de trabajo
-### Extracción de Datos (ETL):
+#### Extracción de Datos (ETL):
 Los datos se extrajeron de fuentes confiables, como la Agencia de Seguridad Vial de la Ciudad de Buenos Aires. Se aplicaron técnicas de Extracción, Transformación y Carga (ETL) utilizando Python para preparar los datos para su análisis posterior.
 
 #### Análisis Exploratorio de Datos (EDA):
@@ -30,5 +30,28 @@ Se realizó un análisis exploratorio de los datos para comprender la distribuci
 #### Visualización de Datos: 
 Se crearon visualizaciones informativas e interactivas, como gráficos de barras, mapas interactivos, para comunicar de manera efectiva los hallazgos del análisis exploratorio.
 
-####  Generación de Conclusiones y Recomendaciones:
-Basado en los hallazgos del análisis, se generaron conclusiones y recomendaciones que podrían ser útiles para mejorar la seguridad vial en la Ciudad de Buenos Aires.
+####  Documentación y Comunicación de Resultados: 
+Se documentaron los hallazgos y resultados del análisis en un dashboard mediante gráficos para comunicar los resultados de manera clara y comprensible.
+
+### Hallazgos pincipales
+
+#### Análisis temporal 
+Se observó: 
+- los años con mayor cantidad de siniestros viales, fueron 2017 y 2018. Se presento una reduccion en el año casi del 50% en el año 2020. 
+- El mes con mayor cantidad de accidentes viales fue el mes de diciembre 
+- Dos picos con la ayor cantidad de accidentes durante el dia, que corresponden,una en horas de la mañana de 7 am a 10 am y en horas de la tarde de 3 pm a 8 pm 
+
+#### Análisis por victimas 
+Se observó: 
+- Mayor incidencia de los accidentes viales entre motociclistas y peatones 
+- El género masclino, fue el grupo con mayor numero de accidentes 
+- Las personas con edades entre 20 y 40 años, fue el grupo con mayor incidencia de accidentes 
+- El rol con mayor numero de accidentes, fue en calidad de conductor 
+
+#### Análisis geográfico 
+Se observó: 
+- Las comunas con mayor cantidad de accidentes, son la 1,4,9 y 8 correspondiente a la zonaa sudoeste y sur de la ciudad de Buenos Aires. 
+- El tipo de calle donde mas se presentaron los siniestros viales, fue avenida correspondiente al 61.39% con respecto al total de los accidentes
+
+
+
